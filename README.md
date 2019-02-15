@@ -4,6 +4,9 @@ The data is based on global monthly searches in 2017.
 
 To check the project in [Google Play](https://play.google.com/store/apps/details?id=com.htaka.higherlower/).
 
+![img1](https://i.ibb.co/tLnFVbX/2.png)
+![img2](https://i.ibb.co/09xfPcC/1.png)
+
 
 ## Getting Started
 Import the project in Android Studio using Github.
